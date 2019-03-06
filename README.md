@@ -9,4 +9,5 @@ you simply have to run index.html. There is 7 specs that has been secsessfully t
 ## reference.
 
 1.[Jasmine cheatsheet](https://devhints.io/jasmine)
+
 2.Google searches on [stackoverflow](https://stackoverflow.com/)
